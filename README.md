@@ -1,3 +1,23 @@
+## About this fork
+
+At [novoda](https://github.com/novoda) we are living and breathing Android. That's why we were very excited to see [Steve Pomeroy](https://github.com/xxv/) comprehensive take on the Android lifecycle diagrams.
+
+But some small details set me off personally - I guess I have OCD to some degree - and so I tweaked the version a bit before we printed it out for the office wall. Since I applied the changes to the SVG instead of the dia-file I deleted this file to not cause any confusion. The PDF and the PNG are exported from Inkscape.
+
+### The poster in action
+
+![The poster in action at our Berlin office](img/poster_at_novoda.jpg)
+
+
+### Changelog for this fork
+
+
+- 2014/05/06 Rearranged elements to fight OCD triggers, removed dia as changes were done in SVG and exported to PDF and PNG from Inkscape
+- 2014/05/06 forked from original repo
+
+
+## Original README.md:
+
 Complete Android Fragment & Activity Lifecycle
 ----------------------------------------------
 
